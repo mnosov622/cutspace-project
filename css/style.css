@@ -1661,7 +1661,8 @@ img.img2{
     }
 
     .experts{
-        height: 650px;
+        height: 700px;
+        
     }
     
     .experts-content{
@@ -1670,8 +1671,6 @@ img.img2{
 }
 
 @media (max-width:368px) {
-    .experts{
-        height: 750px;
-    }
     
+
 }
