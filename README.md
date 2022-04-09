@@ -1,1 +1,1 @@
-https://teracle.github.io/cutspace-proejct/
+https://teracle.github.io/cutspace-project/
