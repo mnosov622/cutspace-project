@@ -1663,5 +1663,8 @@ img.img2{
     .experts{
         height: 650px;
     }
-
+    
+    .experts-content{
+        margin-top: 75px;
+    }
 }
