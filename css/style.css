@@ -1668,3 +1668,10 @@ img.img2{
         margin-top: 75px;
     }
 }
+
+@media (max-width:368px) {
+    .experts{
+        height: 750px;
+    }
+    
+}
